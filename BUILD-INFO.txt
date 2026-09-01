@@ -1,0 +1,9 @@
+ALZA IT AUDIT - BUILD 1 PACKAGE
+Date: 2026-09-01
+Branding: exact user-supplied ALZA PNG
+Logo SHA-256: 4f6b14a41ce81ba95b3059e25eff5b01d8ae824cf47e1d6a9f40805306c1da9c
+Master domains: 118
+Generated master controls: 1416
+GitHub Pages folder: /docs
+Supabase schema: /supabase/schema.sql
+Local config: /docs/config.js
